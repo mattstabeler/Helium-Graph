@@ -1,6 +1,6 @@
 # Helium Graph
 
-Get a list of hotspots for an area from the Helium API and generate some stats. 
+Get a list of hotspots for an area from the Helium API and generate some stats. Specify a rectangle from the South West point (lat/long) to the North East point (lat/long), and optionally supply a name for the region. 
 
 
 ```
